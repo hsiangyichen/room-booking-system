@@ -67,7 +67,7 @@ export default class Authenticator {
     };
 
     private validateGoogleToken = async (googleToken: string): Promise<UserDTO> => {
-        const CLIENT_ID: string = "682437365013-hcj4g0l2c042umnvr28kbikenhnjrrre.apps.googleusercontent.com";
+        const CLIENT_ID: string = "711004643878-qrq9flijeoddpg84i2vd7l3k22fomog6.apps.googleusercontent.com";
         const decodedUserInfo: GoogleUser = jwtDecode(googleToken);
         if (!decodedUserInfo) {
             return Promise.reject(new UnauthorizedError(`Invalid token`));
