@@ -19,11 +19,13 @@ Meeting Space Finder is a tool designed to help you find the perfect meeting spa
 To start using Meeting Space Finder, follow these steps:
 
 1. Sign up for an account on our platform from admin user.
+   - here is one of the admin user account
+     - gmail: msfinder2000@gmail.com
+     - pw: msfinder2000admin
+   - as a admin user, you are allowed to add more users in https://room-booking-system-delta.vercel.app/userManagementAddPage
 2. Log in to your account.
 3. Use the search filters to find the ideal meeting space for your needs.
 4. Reserve the selected meeting space for your desired date and time.
 5. Arrive at the meeting space and enjoy a productive meeting experience!
 
-## Contact Us
-
-Thank you for visiting Meeting Space Finder!
+## Thank you for visiting Meeting Space Finder!
