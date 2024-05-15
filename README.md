@@ -19,7 +19,7 @@ Meeting Space Finder is a tool designed to help you find the perfect meeting spa
 To start using Meeting Space Finder, follow these steps:
 
 1. Add an account on our platform by one of the admin users.
-   - contact me to add you as a staff of our platform(mailto:hsiangyi1025@gmail.com)
+   - contact me to add you as a staff of our platform (mailto:hsiangyi1025@gmail.com)
 2. After I add you, log in to your account.
 3. Use the search filters to find the ideal meeting space for your needs.
 4. Reserve the selected meeting space for your desired date and time.
